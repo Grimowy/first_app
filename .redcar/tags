@@ -1,4 +1,4 @@
-1303241997
+1303242231
 Application	C:/Sites/first_app/config/application.rb	  class Application 
 ApplicationController	C:/Sites/first_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/first_app/app/helpers/application_helper.rb	module ApplicationHelper
